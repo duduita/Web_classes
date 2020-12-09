@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276404905301",
+    "project_id": "easyvest-696eb",
+    "storage_bucket": "easyvest-696eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276404905301:android:e716c72c60f649e3f9bbdc",
+        "android_client_info": {
+          "package_name": "com.example.conversafiada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276404905301-djab099vh9bb8hmbjpn9rotgheh69mdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0lhULzmT9b_pJcCjPVEQKdC68G5cCUwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276404905301-djab099vh9bb8hmbjpn9rotgheh69mdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
