@@ -42,7 +42,7 @@ class LoginForm extends Component {
       return <Spinner size="small" />;
     }
 
-    return <Button onPress={this.onButtonPress.bind(this)}>Log in</Button>;
+    return <Button onPress={this.onButtonPress.bind(this)}>Entrar</Button>;
   }
 
   render() {
